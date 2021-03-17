@@ -1,0 +1,18 @@
+body{
+  font: 16px Arial, Helvetica, sans-serif;
+  margin-top: 20px;
+  margin-left: 40px;
+
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+  padding: 0 15px 15px 0;
+}
+
+.submit {
+  margin: 5px;
+  margin-left: 115px;
+}
