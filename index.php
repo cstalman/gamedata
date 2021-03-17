@@ -34,6 +34,7 @@ if (isset($_POST) && ! empty($_POST['username'])) {
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="UTF-8">
   <title> Inloggen </title> 
 </head>
 <body>
